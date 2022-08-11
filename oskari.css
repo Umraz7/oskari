@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "oskari";
+    src: url(/fonts/OskariG2Regular.otf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "oskari";
+    src: url(/fonts/OskariG2Medium.otf);
+    font-style: medium;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "oskari";
+    src: url(/fonts/OskariG2Bold.otf);
+    font-style: bold;
+    font-weight: 700;
+}
